@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054860905928",
+    "project_id": "playway-9b96c",
+    "storage_bucket": "playway-9b96c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054860905928:android:f744b4283943c7eb7644fd",
+        "android_client_info": {
+          "package_name": "com.example.playway_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054860905928-mq087foug5efuor7eecrpn1umkd04vkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.playway_android",
+            "certificate_hash": "16fbd384b5a35a25b805e842a4d207b7fc48d555"
+          }
+        },
+        {
+          "client_id": "1054860905928-833c74m6gppku6b45n56tv68075podba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbU9ZWd4WunVpdNL4o-6H-XMqLXuwtYPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054860905928-833c74m6gppku6b45n56tv68075podba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
